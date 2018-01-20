@@ -12,6 +12,8 @@
 # Index
 
 - [python basic]
+- [Iris_classification]
+- [TensorFlow]
 
 
 
